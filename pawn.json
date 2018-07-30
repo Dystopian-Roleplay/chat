@@ -7,9 +7,9 @@
         "maddinat0r/sscanf",
         "Southclaws/samp-logger",
         "Dystopian-Roleplay/tick-difference",
-        "Dystopian-Roleplay/mentions",
-        "Dystopian-Roleplay/language",
-        "Dystopian-Roleplay/timeutil"
+        "Dystopian-Roleplay/mentions@2.0.0",
+        "Dystopian-Roleplay/language@2.0.0",
+        "Dystopian-Roleplay/timeutil@2.0.0"
     ],
     "dev_dependencies": ["Dystopian-Roleplay/test-boilerplate"]
 }
