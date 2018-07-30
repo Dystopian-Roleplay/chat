@@ -6,10 +6,10 @@
         "pawn-lang/YSI-Includes",
         "maddinat0r/sscanf",
         "Southclaws/samp-logger",
-        "ScavengeSurvive/tick-difference",
-        "ScavengeSurvive/mentions",
-        "ScavengeSurvive/language",
-        "ScavengeSurvive/timeutil"
+        "Dystopian-Roleplay/tick-difference",
+        "Dystopian-Roleplay/mentions",
+        "Dystopian-Roleplay/language",
+        "Dystopian-Roleplay/timeutil"
     ],
-    "dev_dependencies": ["ScavengeSurvive/test-boilerplate"]
+    "dev_dependencies": ["Dystopian-Roleplay/test-boilerplate"]
 }
